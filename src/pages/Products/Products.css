@@ -28,10 +28,9 @@
   border-color: #0891b2;
 }
 
-.filter-bar  select{
+.filter-bar select, .sort select{
   padding: 15px;
   font-size: 0.8em;
-
 }
 
 .loader {
